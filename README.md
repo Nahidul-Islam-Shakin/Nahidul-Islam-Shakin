@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Sojeb 👋
 
-<!--
-**nahidulislamshakin/nahidulislamshakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a software engineer. I always like to learn new things.
 
-Here are some ideas to get you started:
+- ⚡ Always available for new opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojebsikder&theme=algolia&hide_border=true" alt="sojebsikder" />
+ </p>
+
+
+  <p align="center">
+<!-- Github stats -->
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=sojebsikder&theme=algolia&show_icons=true&count_private=true" />
+<br/>
+ <!-- Top Languages Card -->
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojebsikder&theme=algolia&layout=compact" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sojebsikder&theme=algolia" />
+
+</p>
