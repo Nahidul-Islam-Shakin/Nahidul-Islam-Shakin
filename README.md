@@ -1,21 +1,14 @@
-### Hi there, I'm Shakin 👋
-
-- 🔭 I’m a software engineer. I always like to learn new things.
-
-- ⚡ Always available for new opportunities.
-
+<h1 align="center">Hi 👋, I'm Nahidul Islam Shakin</h1>
+<h3 align="center">Software Engineer (Flutter) at bdCalling IT Limited | Passionate Mobile App Developer</h3>
 
 <p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidulislamshakin&theme=algolia&hide_border=true" alt="nahidulislamshakin" />
- </p>
-
-
-  <p align="center">
-<!-- Github stats -->
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nahidulislamshakin&theme=algolia&show_icons=true&count_private=true" />
-<br/>
- <!-- Top Languages Card -->
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidulislamshakin&theme=algolia&layout=compact" />
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahidulislamshakin&theme=algolia" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidulislamshakin&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🚀 About Me
+- 🔭 I’m currently working at **bdCalling IT Limited** as a **Software Engineer (Flutter)**.
+- 🌱 I’m continuously improving my **Flutter, Dart, Firebase, and DevOps** skills.
+- 👯 I’m open to collaborating on **Flutter and full-stack projects**.
+- ⚡ Fun fact: I love experimenting with **automation and DevOps** for better efficiency
