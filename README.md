@@ -48,8 +48,8 @@ From internship to leading a team — my journey taught me not just how to code,
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahidul-islam-shakin&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidul-islam-shakin&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nahidulislamshakin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidulislamshakin&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ From internship to leading a team — my journey taught me not just how to code,
 ## 📬 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nahidul-islam-shakin/?originalSubdomain=bd)
-- 📧 Email: shakinflutterdev@gmail.com
+- 📧 Email: shakinhabib2000@gmail.com
 
 I’m always open to new challenges, collaborations, and building awesome ideas. Let’s connect and create something cool together!
 
