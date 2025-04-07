@@ -20,7 +20,7 @@ From internship to leading a team — my journey taught me not just how to code,
 
 </td>
 <td>
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="300" />
+  <img src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" alt="Coder GIF" width="300" />
 </td>
 </tr>
 </table>
