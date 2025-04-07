@@ -8,25 +8,27 @@
 
 ## 💡 About Me
 
-I’m Shakin, a passionate Flutter developer who loves building high-performance, scalable, and pixel-perfect mobile apps. Currently working as a **Flutter Team Lead** at BdCalling IT Limited. I enjoy writing clean, maintainable code following **MVVM architecture** and best practices.
+I’m Shakin, a passionate Flutter developer with **around 5 years of experience** in building mobile apps. I started learning Flutter about 5 years ago and since then, it’s been a crazy ride of learning, building, and growing. 
 
-I started my professional journey from an internship to a junior dev, and now I'm leading Flutter projects and mentoring other devs. I’ve worked on real-world applications involving complex features like payment systems, notifications, sockets, and background tasks.
+Currently, I’m working as a **Flutter Team Lead** at BdCalling IT Limited. I love building high-performance, scalable, and pixel-perfect mobile applications. I follow **MVVM architecture** and clean code practices to keep everything maintainable and dev-friendly.
+
+From internship to leading a team — my journey taught me not just how to code, but how to solve problems, debug like a detective, and lead teams with confidence.
 
 ---
 
 ## 💪 What I’m Good At
 
-- 📱 Flutter (2+ years experience)
-- 🧠 Problem solving & debugging expert
-- 🧰 Provider (Expert), also used GetX and Riverpod
+- 📱 Flutter (5 years+)
+- 🧠 Strong problem solving & debugging skills
+- 🧰 Provider (Expert), also use GetX and Riverpod
 - 🖼️ Pixel-perfect UI from Figma/Adobe XD
 - 🔌 Firebase (Auth, Firestore, Messaging, Storage)
-- 🌐 REST APIs, JSON handling
+- 🌐 REST APIs, JSON parsing
 - 💳 Payment gateway integration (SSLCommerz, Stripe, etc.)
-- 🧵 Multi-threading, isolate usage, background task management
-- 🔒 Secure app design with local storage (Hive, Sqflite)
-- 🔄 Real-time features using WebSocket
-- 🚀 App performance optimization
+- 🧵 Multi-threading, isolates, background services
+- 🔒 Secure local storage (Hive, Sqflite)
+- 🔄 Real-time features with WebSocket
+- ⚙️ App performance optimization & clean architecture
 
 ---
 
@@ -37,7 +39,7 @@ I started my professional journey from an internship to a junior dev, and now I'
 | State Mgmt   | Provider (Expert), GetX, Riverpod          |
 | Architecture | MVVM, Clean Code                           |
 | Backend      | Firebase, REST APIs, WebSocket             |
-| Database     | Firebase Firestore, Hive, Sqflite          |
+| Database     | Firestore, Hive, Sqflite                   |
 | UI/UX        | Flutter + Figma, Responsive Layout         |
 | Misc         | Git, CI/CD, Push Notifications, Payment    |
 
@@ -57,9 +59,8 @@ I started my professional journey from an internship to a junior dev, and now I'
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nahidul-islam-shakin/?originalSubdomain=bd)
 - 📧 Email: shakinflutterdev@gmail.com
 
-I’m always open to new opportunities, collaborations, and cool app ideas. Let’s build something awesome together!
+I’m always open to new challenges, collaborations, and building awesome ideas. Let’s connect and create something cool together!
 
 ---
 
 > *“Dark mode, clean code, and a good cup of tea — that’s my dev life.”*
-
