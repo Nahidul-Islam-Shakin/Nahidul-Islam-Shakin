@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Nahidul Islam Shakin
 
 🚀 Flutter Developer | Team Lead at BdCalling IT Limited  
-💼 Ex-Junior Flutter Dev at Software Arena Limited
 🎓 B.Sc. in CSE | Gopalganj Science and Technology University  
-
+💼 Ex-Junior Flutter Dev at Software Arena Limited
 ---
 
 <table>
