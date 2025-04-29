@@ -1,5 +1,3 @@
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=nahidulislamshakin&theme=dark&hide_border=true" width = 400>
-
 # 👋 Hi, I’m Nahidul Islam Shakin
 
 🚀 Flutter Developer | Team Lead at BdCalling IT Limited      
@@ -21,7 +19,7 @@ From internship to leading a team — my journey taught me not just how to code,
 
 </td>
 <td>
-  <img src="https://cdn.dribbble.com/userupload/22906166/file/original-ffcac8e074af7de5e6ac6db9873dff66.gif" alt="Coder GIF" width="300" />
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=nahidulislamshakin&theme=dark&hide_border=true" width = 400>
 </td>
 </tr>
 </table>
