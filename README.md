@@ -1,3 +1,5 @@
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=nahidulislamshakin&theme=dark&hide_border=true" width = 400>
+
 # 👋 Hi, I’m Nahidul Islam Shakin
 
 🚀 Flutter Developer | Team Lead at BdCalling IT Limited      
