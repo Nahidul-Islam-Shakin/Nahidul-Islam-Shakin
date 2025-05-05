@@ -18,9 +18,6 @@ Currently, I’m working as a **Flutter Team Lead** at BdCalling IT Limited. I l
 From internship to leading a team — my journey taught me not just how to code, but how to solve problems, debug like a detective, and lead teams with confidence.
 
 </td>
-<td>
-
-</td>
 </tr>
 </table>
 
