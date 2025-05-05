@@ -19,11 +19,13 @@ From internship to leading a team — my journey taught me not just how to code,
 
 </td>
 <td>
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=nahidulislamshakin&theme=dark&hide_border=true" width = 400>
+
 </td>
 </tr>
 </table>
 
+---
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=nahidulislamshakin&theme=dark&hide_border=true" width = 400>
 ---
 
 ## 💪 What I’m Good At
