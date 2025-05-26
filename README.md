@@ -13,7 +13,7 @@
 
 I’m Shakin, a passionate Flutter developer with **around 5 years of experience** in building mobile apps. I started learning Flutter about 5 years ago and since then, it’s been a crazy ride of learning, building, and growing. 
 
-Currently, I’m working as a **Flutter Team Lead** at BdCalling IT Limited. I love building high-performance, scalable, and pixel-perfect mobile applications. I follow **MVVM architecture** and clean code practices to keep everything maintainable and dev-friendly.
+Currently, I’m working as a **Flutter Team Lead** at Backbencher Studio. I love building high-performance, scalable, and pixel-perfect mobile applications. I follow **Clean Architecture**, **MVVM architecture** and clean code practices to keep everything maintainable and dev-friendly.
 
 From internship to leading a team — my journey taught me not just how to code, but how to solve problems, debug like a detective, and lead teams with confidence.
 
