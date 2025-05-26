@@ -54,6 +54,24 @@ From internship to leading a team — my journey taught me not just how to code,
 
 ---
 
+## 🚀 Open Source Contribution
+
+### 📦 **Horizontal List Calendar Flutter Package**
+
+I’ve recently published my first **Flutter package**: [**Horizontal List Calendar**](https://pub.dev/packages/horizontal_list_calendar)! 🎉
+
+This package provides a **customizable, horizontally scrollable calendar widget** for Flutter, perfect for use cases like date pickers or calendar navigation.
+
+#### Features:
+- **Horizontally scrollable date list** 📅
+- **Customizable selected/unselected date colors** 🎨
+- **Supports custom text styles** ✨
+- **Built-in support for Riverpod state management** 🔥
+
+You can check it out and contribute here: [Horizontal List Calendar on pub.dev](https://pub.dev/packages/horizontal_list_calendar)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
