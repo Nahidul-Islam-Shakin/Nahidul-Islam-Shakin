@@ -29,10 +29,10 @@ From internship to leading a team — my journey taught me not just how to code,
 
 - 📱 Flutter (5 years+)
 - 🧠 Strong problem solving & debugging skills
-- 🧰 Provider (Expert), also use GetX and Riverpod
+- 🧰 Riverpod (Expert), Provider (Expert)
 - 🖼️ Pixel-perfect UI from Figma/Adobe XD
 - 🔌 Firebase (Auth, Firestore, Messaging, Storage)
-- 🌐 REST APIs, JSON parsing
+- 🌐 REST APIs, Web Socket, Web RTC
 - 💳 Payment gateway integration (SSLCommerz, Stripe, etc.)
 - 🧵 Multi-threading, isolates, background services
 - 🔒 Secure local storage (Hive, Sqflite)
@@ -45,11 +45,10 @@ From internship to leading a team — my journey taught me not just how to code,
 
 | Category     | Tools/Frameworks                           |
 |--------------|--------------------------------------------|
-| State Mgmt   | Provider (Expert), GetX, Riverpod          |
-| Architecture | MVVM, Clean Code                           |
+| State Mgmt   | Riverpod, Provider                         |
+| Architecture | Clean Architecture, MVVM                   |
 | Backend      | Firebase, REST APIs, WebSocket             |
 | Database     | Firestore, Hive, Sqflite                   |
-| UI/UX        | Flutter + Figma, Responsive Layout         |
 | Misc         | Git, CI/CD, Push Notifications, Payment    |
 
 ---
