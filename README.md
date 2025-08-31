@@ -85,9 +85,9 @@ You can check it out and contribute here: [Horizontal List Calendar on pub.dev](
 
 ## 📬 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nahidul-islam-shakin/?originalSubdomain=bd)
+- 🔗 [https://www.linkedin.com/in/nahidul-islam-shakin/?originalSubdomain=bd](https://www.linkedin.com/in/nahidul-islam-shakin/?originalSubdomain=bd)
 - 📧 Email: nahidulislamshakin926@gmail.com
-- 📞 WhatsApp : +880 1880-925109
+- 📞 WhatsApp : [+880 1880-925109](https://wa.me/8801880925109?text=Hello%20I%20want%20to%20talk%20with%20you)
 
 I’m always open to new challenges, collaborations, and building awesome ideas. Let’s connect and create something cool together!
 
