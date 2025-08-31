@@ -2,8 +2,9 @@
 
 # 👋 Hi, I’m Nahidul Islam Shakin
 
-🚀 Flutter Developer | Team Lead at Backbencher Studio Ltd.      
-💼 Ex-Junior Flutter Dev at Software Arena Limited           
+🚀 Software Engineer (Mobile Apps) | Artificial Soft.      
+💼 Ex Software Engineer (Mobile Apps) at Backbencher Studio Ltd.    
+💼 Ex-Junior Flutter Dev at Software Arena Limited     
 🎓 B.Sc. in CSE | Gopalganj Science and Technology University  
 ---
 
@@ -24,14 +25,14 @@ From internship to leading a team — my journey taught me not just how to code,
 </table>
 
 ---
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=nahidulislamshakin&theme=dark&hide_border=true" width = 400>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=Nahidul-Islam-Shakin&theme=dark&hide_border=true" width = 400>
 ---
 
 ## 💪 What I’m Good At
 
 - 📱 Flutter (5 years+)
 - 🧠 Strong problem solving & debugging skills
-- 🧰 Riverpod (Expert), Provider (Expert)
+- 🧰 Riverpod (Expert), Provider (Expert), GetX (Expert)
 - 🖼️ Pixel-perfect UI from Figma/Adobe XD
 - 🔌 Firebase (Auth, Firestore, Messaging, Storage)
 - 🌐 REST APIs, Web Socket, Web RTC
@@ -76,8 +77,8 @@ You can check it out and contribute here: [Horizontal List Calendar on pub.dev](
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nahidulislamshakin&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidulislamshakin&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nahidul-Islam-Shakin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahidul-Islam-Shakin&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -85,7 +86,7 @@ You can check it out and contribute here: [Horizontal List Calendar on pub.dev](
 ## 📬 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nahidul-islam-shakin/?originalSubdomain=bd)
-- 📧 Email: shakinhabib2000@gmail.com
+- 📧 Email: nahidulislamshakin926@gmail.com
 
 I’m always open to new challenges, collaborations, and building awesome ideas. Let’s connect and create something cool together!
 
