@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Nahidul Islam Shakin
 
 🚀 Software Engineer (Mobile Apps) | Artificial Soft.      
-💼 Ex Software Engineer (Mobile Apps) at Backbencher Studio Ltd.    
+💼 Ex Software Engineer (Mobile Apps) at Bdcalling IT Ltd.    
 💼 Ex-Junior Flutter Dev at Software Arena Limited     
 🎓 B.Sc. in CSE | Gopalganj Science and Technology University  
 ---
@@ -46,13 +46,15 @@ From internship to leading a team — my journey taught me not just how to code,
 
 ## 🧠 Tech Stack
 
-| Category     | Tools/Frameworks                           |
-|--------------|--------------------------------------------|
-| State Mgmt   | Riverpod, Provider                         |
-| Architecture | Clean Architecture, MVVM                   |
-| Backend      | Firebase, REST APIs, WebSocket             |
-| Database     | Firestore, Hive, Sqflite                   |
-| Misc         | Git, CI/CD, Push Notifications, Payment    |
+| Category       | Tools/Frameworks                             |
+|----------------|----------------------------------------------|
+| State Mgmt     | Riverpod, Provider, GetX                     |
+| Architecture   | Clean Architecture, MVVM                     |
+| Backend (BaaS) | Firebase                                     |
+| APIs/Comm      | REST APIs, WebSocket, WebRTC                 |
+| Database       | Firestore, Hive, Sqflite                     |
+| Misc           | Git, CI/CD, Push Notifications, Payment      |
+
 
 ---
 
