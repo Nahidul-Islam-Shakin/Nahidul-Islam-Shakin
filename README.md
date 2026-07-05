@@ -2,11 +2,11 @@
 
 # 👋 Hi, I’m Nahidul Islam Shakin
 
-🚀 Software Engineer | Meghna Group of Industries Ltd. 
-💼 Ex Software Engineer (Mobile Apps) | Artificial Soft. 
-💼 Ex Software Engineer (Mobile Apps) at Bdcalling IT Ltd.    
-💼 Ex-Junior Flutter Dev at Software Arena Limited     
-🎓 B.Sc. in CSE | Gopalganj Science and Technology University  
+🚀 Software Engineer | Meghna Group of Industries Ltd.</br>
+💼 Ex Software Engineer (Mobile Apps) | Artificial Soft.</br>
+💼 Ex Software Engineer (Mobile Apps) at Bdcalling IT Ltd.</br>
+💼 Ex-Junior Flutter Dev at Software Arena Ltd.</br>
+🎓 B.Sc. in CSE | Gopalganj Science and Technology University</br>
 ---
 
 <table>
