@@ -2,7 +2,8 @@
 
 # 👋 Hi, I’m Nahidul Islam Shakin
 
-🚀 Software Engineer (Mobile Apps) | Artificial Soft.      
+🚀 Software Engineer | Meghna Group of Industries Ltd. 
+💼 Ex Software Engineer (Mobile Apps) | Artificial Soft. 
 💼 Ex Software Engineer (Mobile Apps) at Bdcalling IT Ltd.    
 💼 Ex-Junior Flutter Dev at Software Arena Limited     
 🎓 B.Sc. in CSE | Gopalganj Science and Technology University  
@@ -14,9 +15,9 @@
 
 ## 💡 About Me
 
-I’m Shakin, a passionate Flutter developer with **around 5 years of experience** in building mobile apps. I started learning Flutter about 5 years ago, and since then, it’s been a crazy ride of learning, building, and growing. 
+I’m Shakin, a passionate Flutter developer with **around 6 years of experience** in building mobile apps. I started learning Flutter about 6 years ago, and since then, it’s been a crazy ride of learning, building, and growing. 
 
-Currently, I work as a **Software Engineer (Mobile Apps)** at Artificial Soft. I love building high-performance, scalable, and pixel-perfect mobile applications. I follow **Clean Architecture**, **MVVM architecture**, and clean code practices to ensure everything remains maintainable and developer-friendly.
+Currently, I work as a **Software Engineer** at Meghna Group Of Industries. I love building high-performance, scalable, and pixel-perfect mobile applications. I follow **Clean Architecture**, **Feature architecture**, and clean code practices to ensure everything remains maintainable and developer-friendly.
 
 From internship to leading a team — my journey taught me not just how to code, but how to solve problems, debug like a detective, and lead teams with confidence.
 
@@ -30,7 +31,7 @@ From internship to leading a team — my journey taught me not just how to code,
 
 ## 💪 What I’m Good At
 
-- 📱 Flutter (5 years+)
+- 📱 Flutter (6 years+)
 - 🧠 Strong problem solving & debugging skills
 - 🧰 Riverpod (Expert), Provider (Expert), GetX (Expert)
 - 🖼️ Pixel-perfect UI from Figma/Adobe XD
@@ -89,7 +90,7 @@ You can check it out and contribute here: [Horizontal List Calendar on pub.dev](
 
 - 🔗 [https://www.linkedin.com/in/nahidul-islam-shakin/?originalSubdomain=bd](https://www.linkedin.com/in/nahidul-islam-shakin/?originalSubdomain=bd)
 - 📧 Email: nahidulislamshakin926@gmail.com
-- 📞 WhatsApp : [+880 1880-925109](https://wa.me/8801880925109?text=Hello%20I%20want%20to%20talk%20with%20you)
+- 📞 WhatsApp : [+880 1730-388528](https://wa.me/8801730388528?text=Hello%20I%20want%20to%20talk%20with%20you)
 
 I’m always open to new challenges, collaborations, and building awesome ideas. Let’s connect and create something cool together!
 
